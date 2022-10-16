@@ -1,0 +1,402 @@
+Array Index:0
+Key:Dragonfly
+Object Count:7
+
+Array Index:1
+Key:null
+Object Count:null
+
+Array Index:2
+Key:Dolphin
+Object Count:5
+
+Array Index:3
+Key:null
+Object Count:null
+
+Array Index:4
+Key:null
+Object Count:null
+
+Array Index:5
+Key:null
+Object Count:null
+
+Array Index:6
+Key:Sponge
+Object Count:3
+
+Array Index:7
+Key:null
+Object Count:null
+
+Array Index:8
+Key:Eagle
+Object Count:15
+
+Array Index:9
+Key:null
+Object Count:null
+
+Array Index:10
+Key:Cat
+Object Count:8
+
+Array Index:11
+Key:Sheep
+Object Count:6
+
+Array Index:12
+Key:Butterfly
+Object Count:5
+
+Array Index:13
+Key:Mastodon
+Object Count:18
+
+Array Index:14
+Key:Wren
+Object Count:6
+
+Array Index:15
+Key:Wasp
+Object Count:15
+
+Array Index:16
+Key:Shrew
+Object Count:11
+
+Array Index:17
+Key:Rabbit
+Object Count:2
+
+Array Index:18
+Key:Tortoise
+Object Count:2
+
+Array Index:19
+Key:Squid
+Object Count:3
+
+Array Index:20
+Key:Spider
+Object Count:3
+
+Array Index:21
+Key:Mouse
+Object Count:3
+
+Array Index:22
+Key:Cricket
+Object Count:2
+
+Array Index:23
+Key:null
+Object Count:null
+
+Array Index:24
+Key:null
+Object Count:null
+
+Array Index:25
+Key:Rat
+Object Count:3
+
+Array Index:26
+Key:Opossum
+Object Count:17
+
+Array Index:27
+Key:Coyote
+Object Count:3
+
+Array Index:28
+Key:Chicken
+Object Count:4
+
+Array Index:29
+Key:Seal
+Object Count:8
+
+Array Index:30
+Key:Mollusk
+Object Count:5
+
+Array Index:31
+Key:Worm
+Object Count:19
+
+Array Index:32
+Key:Octopus
+Object Count:3
+
+Array Index:33
+Key:Fruit Fly
+Object Count:14
+
+Array Index:34
+Key:Koala Bear
+Object Count:2
+
+Array Index:35
+Key:Panda Bear
+Object Count:4
+
+Array Index:36
+Key:null
+Object Count:null
+
+Array Index:37
+Key:null
+Object Count:null
+
+Array Index:38
+Key:Wolf
+Object Count:14
+
+Array Index:39
+Key:Pig
+Object Count:4
+
+Array Index:40
+Key:Iguana
+Object Count:2
+
+Array Index:41
+Key:Armadillo
+Object Count:14
+
+Array Index:42
+Key:Sloth
+Object Count:2
+
+Array Index:43
+Key:Centipede
+Object Count:14
+
+Array Index:44
+Key:null
+Object Count:null
+
+Array Index:45
+Key:null
+Object Count:null
+
+Array Index:46
+Key:null
+Object Count:null
+
+Array Index:47
+Key:Tiger
+Object Count:12
+
+Array Index:48
+Key:null
+Object Count:null
+
+Array Index:49
+Key:Monkey
+Object Count:18
+
+Array Index:50
+Key:Sea Turtle
+Object Count:3
+
+Array Index:51
+Key:Dinosaur
+Object Count:13
+
+Array Index:52
+Key:null
+Object Count:null
+
+Array Index:53
+Key:Porpoise
+Object Count:3
+
+Array Index:54
+Key:Gorilla
+Object Count:1
+
+Array Index:55
+Key:Grasshopper
+Object Count:3
+
+Array Index:56
+Key:Sea Urchin
+Object Count:3
+
+Array Index:57
+Key:Whale
+Object Count:3
+
+Array Index:58
+Key:null
+Object Count:null
+
+Array Index:59
+Key:null
+Object Count:null
+
+Array Index:60
+Key:null
+Object Count:null
+
+Array Index:61
+Key:null
+Object Count:null
+
+Array Index:62
+Key:null
+Object Count:null
+
+Array Index:63
+Key:null
+Object Count:null
+
+Array Index:64
+Key:null
+Object Count:null
+
+Array Index:65
+Key:Woodpecker
+Object Count:16
+
+Array Index:66
+Key:Ferret
+Object Count:4
+
+Array Index:67
+Key:Hawk
+Object Count:1
+
+Array Index:68
+Key:Sparrow
+Object Count:4
+
+Array Index:69
+Key:null
+Object Count:null
+
+Array Index:70
+Key:null
+Object Count:null
+
+Array Index:71
+Key:Millipede
+Object Count:6
+
+Array Index:72
+Key:Lion
+Object Count:9
+
+Array Index:73
+Key:Giraffe
+Object Count:11
+
+Array Index:74
+Key:Honey Bee
+Object Count:13
+
+Array Index:75
+Key:null
+Object Count:null
+
+Array Index:76
+Key:null
+Object Count:null
+
+Array Index:77
+Key:Elephant
+Object Count:9
+
+Array Index:78
+Key:House Fly
+Object Count:7
+
+Array Index:79
+Key:Moth
+Object Count:2
+
+Array Index:80
+Key:null
+Object Count:null
+
+Array Index:81
+Key:Orangutan
+Object Count:6
+
+Array Index:82
+Key:null
+Object Count:null
+
+Array Index:83
+Key:null
+Object Count:null
+
+Array Index:84
+Key:null
+Object Count:null
+
+Array Index:85
+Key:null
+Object Count:null
+
+Array Index:86
+Key:null
+Object Count:null
+
+Array Index:87
+Key:null
+Object Count:null
+
+Array Index:88
+Key:Bear
+Object Count:14
+
+Array Index:89
+Key:Snake
+Object Count:4
+
+Array Index:90
+Key:Zebra
+Object Count:16
+
+Array Index:91
+Key:null
+Object Count:null
+
+Array Index:92
+Key:Dog
+Object Count:16
+
+Array Index:93
+Key:null
+Object Count:null
+
+Array Index:94
+Key:Deer
+Object Count:15
+
+Array Index:95
+Key:null
+Object Count:null
+
+Array Index:96
+Key:null
+Object Count:null
+
+Array Index:97
+Key:Sea Lion
+Object Count:3
+
+Array Index:98
+Key:null
+Object Count:null
+
+Array Index:99
+Key:Muskrat
+Object Count:3
+
+
+Number of objects processed from data file: 464
